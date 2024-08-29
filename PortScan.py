@@ -1,7 +1,6 @@
+import socket
+
 while True:
-
-    import socket
-
 
     ip = input("Digite o IP ou endereço: ")
 
